@@ -2,7 +2,7 @@
     <channel>
         <title>Yashika Badaya</title>
         <link>https://yashikabadaya.github.io/</link>
-        <description>This is My New Hugo Site</description>
+        <description>Yashika Badaya - Hello World!</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language>
             <atom:link href="https://yashikabadaya.github.io/index.xml" rel="self" type="application/rss+xml" />
         </channel>
