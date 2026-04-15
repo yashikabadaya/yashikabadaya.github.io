@@ -135,6 +135,10 @@ ul {
   letter-spacing: 0.02em;
 }
 
+.spaced-list li {
+  margin-bottom: 12px;
+}
+
 .contact {
   margin-top: 18px;
 }
